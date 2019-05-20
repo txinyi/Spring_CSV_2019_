@@ -1,2 +1,1 @@
-# Spring_CSV_2019_
-Using normal reading instead
+Using Spring MVC with ThymeLeaf + MySQL
