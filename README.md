@@ -39,13 +39,13 @@ Expose outputs on users with valid salary (0 <= salary <= 4000) in Json.
 
 
 ## Implmentation
-**Spring MVC**
+**Spring MVC**  
 Entity class which Hibernate will automatically translate into table  
 Controller class intercept incoming requests, send data to Model for further processing, get processed data from the Model and advances the data to View for rendering  
 View (WEB-INF) render views
 
 
-## References
+## References  
 - Get Started with Spring Boot - https://spring.io/guides/gs/spring-boot/ 
 - Spring MVC - https://github.com/ekirastogi/spring-boot-gradle-mvc 
 - Accessing Data MySQL - https://spring.io/guides/gs/accessing-data-mysql/ 
