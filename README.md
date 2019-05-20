@@ -15,12 +15,12 @@ To use this application,
 4. CSV file can be found in ```src/main/resources/users.csv```
 3. Run the application
 
-## INput
+## Input
 Upload CSV files
-[[https://github.com/txinyi/Spring_CSV_BufferedReader/readme/octocat.png|alt=outputJson]]
+![Index](https://github.com/txinyi/Spring_CSV_BufferedReader/blob/master/readme/indexJSP.PNG?raw=true)
 
 
 ## Output
 Epxose outputs on users with valid salary (0 <= salary <= 4000) in Json
-[[https://github.com/txinyi/Spring_CSV_BufferedReader/readme/octocat.png|alt=outputJson]]
+![JsonEndPoint](https://github.com/txinyi/Spring_CSV_BufferedReader/blob/master/readme/usersEndpoint.PNG?raw=true)
 
