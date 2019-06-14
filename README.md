@@ -1,4 +1,4 @@
-CDIT Assignment (Spring Boot and Java)
+(Spring Boot and Java)
 
 # SpringBoot MVC + MySQL + BufferedReader
 This application uses,
@@ -53,5 +53,5 @@ View (WEB-INF) render views
 - Uploading files - https://spring.io/guides/gs/uploading-files/ 
 
 
-
+CDIT Assignment 
 
